@@ -15,12 +15,13 @@
     <meta-data android:name="com.oculus.handtracking.version" android:value="V2.0" />
     <meta-data android:name="com.oculus.ossplash.background" android:value="passthrough-contextual" />
     <meta-data android:name="com.oculus.telemetry.project_guid" android:value="df557032-6c24-411d-99b1-c06b023a17cf" />
-    <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|eureka" tools:replace="android:value" />
+    <meta-data android:name="com.oculus.supportedDevices" android:value="quest2|questpro|eureka" />
   </application>
   <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" android:required="true" />
   <uses-feature android:name="oculus.software.handtracking" android:required="false" />
   <uses-permission android:name="com.oculus.permission.HAND_TRACKING" />
   <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
-  <uses-feature android:name="com.oculus.feature.PASSTHROUGH" android:required="false" />
+  <uses-permission android:name="com.oculus.permission.IMPORT_EXPORT_IOT_MAP_DATA" />
+  <uses-feature android:name="com.oculus.feature.PASSTHROUGH" android:required="true" />
   <uses-permission android:name="com.oculus.permission.USE_SCENE" />
 </manifest>
