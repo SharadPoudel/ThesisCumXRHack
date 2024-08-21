@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Meta MR Utility Kit/67.0.0/Basic/MRUKBase.unity
     guid: 21549dbcb1294de4fafd68fca195dda5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Sharad/Scenes/MR-BucketAndCollectiblesWithNarrationUI.unity
     guid: 688fbaa8904bb1f44afed9328bf8109b
+  - enabled: 0
+    path: Assets/Sharad/Scenes/Co-presence-RemoteVR.unity
+    guid: 43ff33145cf5a8c449dc39c569c57698
+  - enabled: 1
+    path: Assets/Sharad/Scenes/Colocated-MR-Chess.unity
+    guid: 50503badf498b154aa3dd981c32e3237
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b3d2a126003b1c41903b5f56640b665, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 598062aa3072e184388f0841019b54d9, type: 2}

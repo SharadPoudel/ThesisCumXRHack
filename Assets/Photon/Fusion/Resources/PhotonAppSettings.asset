@@ -15,7 +15,7 @@ MonoBehaviour:
   AppSettings:
     AppIdFusion: 0fe0393f-4f11-47b4-ba54-5ef92d6bc422
     AppIdChat: 
-    AppIdVoice: 
+    AppIdVoice: 2aebbcf5-db26-4de1-98c2-5a8f293e07dc
     AppVersion: 
     UseNameServer: 1
     FixedRegion: 
