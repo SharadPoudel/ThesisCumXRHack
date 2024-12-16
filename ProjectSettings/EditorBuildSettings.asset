@@ -17,9 +17,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Sharad/Scenes/Colocated-MR-Chess.unity
     guid: 50503badf498b154aa3dd981c32e3237
-  - enabled: 1
+  - enabled: 0
     path: Assets/Sharad/Scenes/Co-presence-RemoteVR.unity
     guid: 43ff33145cf5a8c449dc39c569c57698
+  - enabled: 0
+    path: Assets/Sharad/Scenes/DecSharad/Multiplayer-RemoteVR-Networked-Players.unity
+    guid: 3fe61c4b1e9411a4cb5c39243eb32d67
+  - enabled: 1
+    path: Assets/Sharad/Scenes/DecSharad/Menu.unity
+    guid: 176fa5606ba38c8479e7003525d2c0f5
+  - enabled: 1
+    path: Assets/Sharad/Scenes/DecSharad/GameArea.unity
+    guid: 80f61cb39bfae0c44abe663094ebf4e3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b3d2a126003b1c41903b5f56640b665, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 598062aa3072e184388f0841019b54d9, type: 2}
