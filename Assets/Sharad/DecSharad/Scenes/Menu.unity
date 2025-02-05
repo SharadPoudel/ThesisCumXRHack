@@ -17710,6 +17710,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1311162522}
+  - component: {fileID: 1311162523}
   m_Layer: 0
   m_Name: ---UI to Tap---
   m_TagString: Untagged
@@ -17733,6 +17734,19 @@ Transform:
   - {fileID: 414652790}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1311162523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311162521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5a95ec1b7216d44a91429ac732f59f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectionType: 1
 --- !u!1 &1311624688
 GameObject:
   m_ObjectHideFlags: 0
